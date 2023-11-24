@@ -1,6 +1,11 @@
-Nothing special for now.
+<div align=center>
 
-<!---
-purzixy/purzixy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### About:
+
+Pronouncing 'пюързикси -  pyu-ar-ziksi'. Just randomly popped in my head and I liked it. Est. ``07/11/2023``
+
+### Socials:
+
+They are linked in my github bio anyways.
+
+</div>
