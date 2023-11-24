@@ -2,7 +2,7 @@
 
 ### About:
 
-Pronouncing 'пюързикси -  pyu-ar-ziksi'. Just randomly popped in my head and I liked it. Est. ``07/11/2023``
+Pronouncing 'пюързикси -  pyu-ar-ziksi'. Just randomly popped in my head. Est. ``07/11/2023``
 
 ### Socials:
 
